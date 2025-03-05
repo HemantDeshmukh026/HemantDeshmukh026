@@ -2,7 +2,6 @@
 
 I'm from India, and I am a master's student pursuing Data Analytics Engineering at Northeastern University. I enjoy learning languages and performing data analysis, providing data engineering solutions to real-world problems. You can check out my LinkedIn at https://www.linkedin.com/in/hmdeshmukh/
 
-![](https://github.com/HemantDeshmukh026/HemantDeshmukh026/blob/main/GitHub_ReadMe.webp/)
 
 - 🔭 I’m currently working on projects focused on Data Analytics & Data Engineering
 - 🌱 I’m currently learning Data Engineering and Cloud Computing
